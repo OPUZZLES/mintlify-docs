@@ -1,0 +1,60 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "quill",
+  "name": "EducateAI Blog",
+  "colors": {
+    "primary": "#2563eb",
+    "light": "#3b82f6",
+    "dark": "#1d4ed8"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": [
+    {
+      "group": "Recent Posts",
+      "pages": [
+        "blog/recent"
+      ]
+    },
+    {
+      "group": "Categories",
+      "pages": [
+        "blog/ai",
+        "blog/guides",
+        "blog/science",
+        "blog/tips-and-tricks"
+      ]
+    }
+  ],
+  "topbarLinks": [
+    {
+      "name": "Main Website",
+      "url": "https://educate-ai.com"
+    },
+    {
+      "name": "Newsletter",
+      "url": "#newsletter-signup"
+    }
+  ],
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Contact",
+        "href": "mailto:illsley.pierre@gmx.de"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Try EducateAI",
+      "href": "https://educate-ai.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://linkedin.com/company/educate-ai"
+    }
+  }
+}
