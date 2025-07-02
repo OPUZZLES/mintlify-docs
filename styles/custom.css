@@ -1,0 +1,77 @@
+/* Fix link styling - remove strikethrough and add underlines */
+.prose a,
+article a,
+.blog-content a,
+p a {
+  text-decoration: underline !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: currentColor !important;
+}
+
+/* Remove strikethrough from links */
+.prose a del,
+article a del,
+.blog-content a del,
+p a del {
+  text-decoration: none !important;
+}
+
+/* Ensure links are properly styled */
+.prose a:hover,
+article a:hover,
+.blog-content a:hover,
+p a:hover {
+  text-decoration: underline !important;
+  opacity: 0.8;
+}
+
+/* Hide sidebar on blog posts */
+.blog-post .sidebar,
+.blog-content .sidebar {
+  display: none !important;
+}
+
+/* Full width for blog posts without sidebar */
+.blog-post .main-content,
+.blog-content .main-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Improve blog post layout */
+.blog-post,
+.blog-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Better link contrast */
+.prose a,
+article a,
+.blog-content a,
+p a {
+  color: #2563eb !important;
+  font-weight: 500;
+}
+
+/* Fix Wikipedia links specifically */
+a[href*="wikipedia"],
+a[href*="vaia"],
+a[href*="restackio"] {
+  text-decoration: underline !important;
+  text-decoration-line: underline !important;
+  color: #2563eb !important;
+}
+
+/* Remove any crossed-out styling */
+del {
+  text-decoration: line-through !important;
+}
+
+/* Ensure proper link styling in all contexts */
+* a {
+  text-decoration-line: underline !important;
+  text-decoration-style: solid !important;
+}

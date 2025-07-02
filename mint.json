@@ -25,6 +25,9 @@
       ]
     }
   ],
+  "sidebar": {
+    "items": "hidden"
+  },
   "topbarLinks": [
     {
       "name": "Main Website",
@@ -81,5 +84,8 @@
   },
   "seo": {
     "indexHiddenPages": false
-  }
+  },
+  "customCSS": [
+    "/styles/custom.css"
+  ]
 }
