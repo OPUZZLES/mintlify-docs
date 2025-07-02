@@ -19,7 +19,7 @@
       "group": "Categories",
       "pages": [
         "blog/ai",
-        "blog/guides",
+        "blog/guides", 
         "blog/science",
         "blog/tips-and-tricks"
       ]
@@ -33,6 +33,20 @@
     {
       "name": "Newsletter",
       "url": "#newsletter-signup"
+    },
+    {
+      "name": "RSS",
+      "url": "/rss"
+    }
+  ],
+  "i18n": [
+    {
+      "locale": "en",
+      "name": "English"
+    },
+    {
+      "locale": "de",
+      "name": "Deutsch"
     }
   ],
   "logo": {
@@ -56,5 +70,16 @@
     "socials": {
       "linkedin": "https://linkedin.com/company/educate-ai"
     }
+  },
+  "analytics": {
+    "ga4": {
+      "measurementId": "G-XXXXXXXXXX"
+    },
+    "plausible": {
+      "domain": "blog.educate-ai.com"
+    }
+  },
+  "seo": {
+    "indexHiddenPages": false
   }
 }

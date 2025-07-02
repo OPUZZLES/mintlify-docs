@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>EducateAI Blog - Study Guides</title>
+    <link>https://blog.educate-ai.com/blog/guides</link>
+    <description>Comprehensive guides for effective studying and academic success</description>
+    <language>en-us</language>
+    <copyright>© 2024 EducateAI. All rights reserved.</copyright>
+    <managingEditor>illsley.pierre@gmx.de (Pierre Illsley)</managingEditor>
+    <webMaster>illsley.pierre@gmx.de (Pierre Illsley)</webMaster>
+    <lastBuildDate>Wed, 02 Jul 2025 15:26:51 </lastBuildDate>
+    <atom:link href="https://blog.educate-ai.com/rss/guides.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EducateAi's AI-Powered Flashcard System</title>
+      <link>https://blog.educate-ai.com/blog/guides/educateais-ai-powered-flashcard-system</link>
+      <description>EducateAi's AI-Powered Flashcard System</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/educateais-ai-powered-flashcard-system</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>How to Study Effectively: Master Spacing and Active Recall for Academic Success</title>
+      <link>https://blog.educate-ai.com/blog/guides/how-to-study-effectively-master-spacing-and-active-recall-for-academic-success</link>
+      <description>How to Study Effectively: Master Spacing and Active Recall for Academic Success</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/how-to-study-effectively-master-spacing-and-active-recall-for-academic-success</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>Flashcards for College Students: A Comprehensive Guide</title>
+      <link>https://blog.educate-ai.com/blog/guides/flashcards-for-college-students-a-comprehensive-guide</link>
+      <description>Flashcards for College Students: A Comprehensive Guide</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/flashcards-for-college-students-a-comprehensive-guide</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>Flashcards for Studying: Unlocking Your Learning Potential</title>
+      <link>https://blog.educate-ai.com/blog/guides/flashcards-for-studying-unlocking-your-learning-potential</link>
+      <description>Flashcards for Studying: Unlocking Your Learning Potential</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/flashcards-for-studying-unlocking-your-learning-potential</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>Mastering Deep Learning: The Feynman Technique</title>
+      <link>https://blog.educate-ai.com/blog/guides/mastering-deep-learning-the-feynman-technique</link>
+      <description>Mastering Deep Learning: The Feynman Technique</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/mastering-deep-learning-the-feynman-technique</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>Understanding Cognitive Levels: How They Work and Why They Matter</title>
+      <link>https://blog.educate-ai.com/blog/guides/understanding-cognitive-levels-how-they-work-and-why-they-matter</link>
+      <description>Understanding Cognitive Levels: How They Work and Why They Matter</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/understanding-cognitive-levels-how-they-work-and-why-they-matter</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>Creating and Using Online Flashcards: A Comprehensive Guide</title>
+      <link>https://blog.educate-ai.com/blog/guides/creating-and-using-online-flashcards-a-comprehensive-guide</link>
+      <description>Creating and Using Online Flashcards: A Comprehensive Guide</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/guides/creating-and-using-online-flashcards-a-comprehensive-guide</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Guides</category>
+    </item>
+  </channel>
+</rss>

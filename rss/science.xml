@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>EducateAI Blog - Learning Science</title>
+    <link>https://blog.educate-ai.com/blog/science</link>
+    <description>Research-backed insights into cognitive science and learning psychology</description>
+    <language>en-us</language>
+    <copyright>© 2024 EducateAI. All rights reserved.</copyright>
+    <managingEditor>illsley.pierre@gmx.de (Pierre Illsley)</managingEditor>
+    <webMaster>illsley.pierre@gmx.de (Pierre Illsley)</webMaster>
+    <lastBuildDate>Wed, 02 Jul 2025 15:26:51 </lastBuildDate>
+    <atom:link href="https://blog.educate-ai.com/rss/science.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Harnessing the Power of Spaced Repetition for Long-Term Retention</title>
+      <link>https://blog.educate-ai.com/blog/science/harnessing-the-power-of-spaced-repetition-for-long-term-retention</link>
+      <description>Harnessing the Power of Spaced Repetition for Long-Term Retention</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/science/harnessing-the-power-of-spaced-repetition-for-long-term-retention</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>Active Learning vs. Passive Learning: Which Is More Effective for Retention?</title>
+      <link>https://blog.educate-ai.com/blog/science/active-learning-vs-passive-learning-which-is-more-effective-for-retention</link>
+      <description>Active Learning vs. Passive Learning: Which Is More Effective for Retention?</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/science/active-learning-vs-passive-learning-which-is-more-effective-for-retention</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>The Science of Learning: Understanding How Your Brain Absorbs and Retains Information</title>
+      <link>https://blog.educate-ai.com/blog/science/the-science-of-learning-understanding-how-your-brain-absorbs-and-retains-information</link>
+      <description>The Science of Learning: Understanding How Your Brain Absorbs and Retains Information</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/science/the-science-of-learning-understanding-how-your-brain-absorbs-and-retains-information</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>AI Reasoning Models in Education: How They Outperform Traditional Tools</title>
+      <link>https://blog.educate-ai.com/blog/science/ai-reasoning-models-in-education-how-they-outperform-traditional-tools</link>
+      <description>AI Reasoning Models in Education: How They Outperform Traditional Tools</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/science/ai-reasoning-models-in-education-how-they-outperform-traditional-tools</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>Effective Study Techniques for Students | Backed by Science</title>
+      <link>https://blog.educate-ai.com/blog/science/study-smarter-not-harder-science-backed-study-techniques-for-stem-students-2</link>
+      <description>Effective Study Techniques for Students | Backed by Science</description>
+      <pubDate>Wed, 02 Jul 2025 15:26:51 </pubDate>
+      <guid isPermaLink="true">https://blog.educate-ai.com/blog/science/study-smarter-not-harder-science-backed-study-techniques-for-stem-students-2</guid>
+      <author>illsley.pierre@gmx.de (Pierre Illsley)</author>
+      <category>Science</category>
+    </item>
+  </channel>
+</rss>
